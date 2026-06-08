@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T06:19:12.908153",
+  "generated_at": "2026-06-08T06:47:29.755820",
   "nasa_latest": "2026-06-05",
   "horizon": 5,
   "cities": {
@@ -12,27 +12,27 @@
           "forecast_date": "2026-06-06",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100448.832,
+              "MV_A": 100468.5714,
+              "MV_B": 100695.097,
+              "UV_A": 100401.2999,
+              "UV_B": 100230.3596,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 70.5552,
+              "MV_A": 64.2728,
+              "MV_B": 84.3163,
+              "UV_A": 66.3201,
+              "UV_B": 67.3114,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.9715,
+              "MV_A": 30.8346,
+              "MV_B": 26.9,
+              "UV_A": 31.1456,
+              "UV_B": 35.0058,
               "unit": "C"
             }
           }
@@ -42,27 +42,27 @@
           "forecast_date": "2026-06-07",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100491.9878,
+              "MV_A": 100525.0014,
+              "MV_B": 100698.2203,
+              "UV_A": 100438.1175,
+              "UV_B": 100306.6119,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 71.5687,
+              "MV_A": 65.8235,
+              "MV_B": 84.1366,
+              "UV_A": 68.3109,
+              "UV_B": 68.0037,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.7383,
+              "MV_A": 29.9807,
+              "MV_B": 26.9503,
+              "UV_A": 31.0581,
+              "UV_B": 34.9641,
               "unit": "C"
             }
           }
@@ -72,27 +72,27 @@
           "forecast_date": "2026-06-08",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100506.939,
+              "MV_A": 100545.2088,
+              "MV_B": 100696.0289,
+              "UV_A": 100427.5823,
+              "UV_B": 100358.9362,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 72.2059,
+              "MV_A": 65.97,
+              "MV_B": 84.5161,
+              "UV_A": 69.2595,
+              "UV_B": 69.0781,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.6662,
+              "MV_A": 29.8986,
+              "MV_B": 27.0032,
+              "UV_A": 31.0268,
+              "UV_B": 34.7364,
               "unit": "C"
             }
           }
@@ -102,27 +102,27 @@
           "forecast_date": "2026-06-09",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100525.6133,
+              "MV_A": 100552.4602,
+              "MV_B": 100693.0776,
+              "UV_A": 100436.0351,
+              "UV_B": 100420.8805,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 72.7452,
+              "MV_A": 66.0754,
+              "MV_B": 84.6246,
+              "UV_A": 70.0247,
+              "UV_B": 70.2561,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.5896,
+              "MV_A": 29.8506,
+              "MV_B": 27.0446,
+              "UV_A": 31.0732,
+              "UV_B": 34.39,
               "unit": "C"
             }
           }
@@ -132,27 +132,27 @@
           "forecast_date": "2026-06-10",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100548.6873,
+              "MV_A": 100571.5093,
+              "MV_B": 100691.0975,
+              "UV_A": 100446.0573,
+              "UV_B": 100486.085,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 73.1964,
+              "MV_A": 66.2982,
+              "MV_B": 84.5849,
+              "UV_A": 70.5591,
+              "UV_B": 71.3436,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.4696,
+              "MV_A": 29.7953,
+              "MV_B": 27.0964,
+              "UV_A": 31.1191,
+              "UV_B": 33.8677,
               "unit": "C"
             }
           }
@@ -168,27 +168,27 @@
           "forecast_date": "2026-06-06",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100358.7651,
+              "MV_A": 100213.1999,
+              "MV_B": 100559.2555,
+              "UV_A": 100280.0424,
+              "UV_B": 100382.5627,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 67.5035,
+              "MV_A": 53.5159,
+              "MV_B": 82.7089,
+              "UV_A": 57.3963,
+              "UV_B": 76.3927,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 31.5342,
+              "MV_A": 32.0506,
+              "MV_B": 28.4441,
+              "UV_A": 33.8616,
+              "UV_B": 31.7807,
               "unit": "C"
             }
           }
@@ -198,27 +198,27 @@
           "forecast_date": "2026-06-07",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100504.1272,
+              "MV_A": 100588.6464,
+              "MV_B": 100554.6784,
+              "UV_A": 100478.8562,
+              "UV_B": 100394.3279,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 70.2971,
+              "MV_A": 58.9607,
+              "MV_B": 82.6704,
+              "UV_A": 62.5994,
+              "UV_B": 76.958,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.8621,
+              "MV_A": 29.9974,
+              "MV_B": 28.407,
+              "UV_A": 32.6151,
+              "UV_B": 32.4291,
               "unit": "C"
             }
           }
@@ -228,27 +228,27 @@
           "forecast_date": "2026-06-08",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100482.3216,
+              "MV_A": 100495.4778,
+              "MV_B": 100547.8493,
+              "UV_A": 100450.5066,
+              "UV_B": 100435.4529,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 71.2379,
+              "MV_A": 59.8574,
+              "MV_B": 82.6589,
+              "UV_A": 65.039,
+              "UV_B": 77.3964,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.8166,
+              "MV_A": 29.7979,
+              "MV_B": 28.373,
+              "UV_A": 32.2386,
+              "UV_B": 32.8567,
               "unit": "C"
             }
           }
@@ -258,27 +258,27 @@
           "forecast_date": "2026-06-09",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100497.5923,
+              "MV_A": 100490.968,
+              "MV_B": 100549.6563,
+              "UV_A": 100450.7474,
+              "UV_B": 100498.9975,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 71.9327,
+              "MV_A": 60.7239,
+              "MV_B": 82.6946,
+              "UV_A": 66.5577,
+              "UV_B": 77.7544,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.7851,
+              "MV_A": 29.5969,
+              "MV_B": 28.2885,
+              "UV_A": 32.1042,
+              "UV_B": 33.1508,
               "unit": "C"
             }
           }
@@ -288,27 +288,27 @@
           "forecast_date": "2026-06-10",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100524.5422,
+              "MV_A": 100573.7056,
+              "MV_B": 100548.9501,
+              "UV_A": 100479.2189,
+              "UV_B": 100496.2943,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 72.3989,
+              "MV_A": 61.3655,
+              "MV_B": 82.7084,
+              "UV_A": 67.5428,
+              "UV_B": 77.9787,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.6852,
+              "MV_A": 29.5441,
+              "MV_B": 28.1981,
+              "UV_A": 32.052,
+              "UV_B": 32.9466,
               "unit": "C"
             }
           }
@@ -324,27 +324,27 @@
           "forecast_date": "2026-06-06",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100495.3167,
+              "MV_A": 100520.2847,
+              "MV_B": 100749.2176,
+              "UV_A": 100428.398,
+              "UV_B": 100283.3666,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 63.9169,
+              "MV_A": 65.7185,
+              "MV_B": 60.2955,
+              "UV_A": 66.3007,
+              "UV_B": 63.3528,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 31.3669,
+              "MV_A": 31.4824,
+              "MV_B": 32.1608,
+              "UV_A": 31.1108,
+              "UV_B": 30.7135,
               "unit": "C"
             }
           }
@@ -354,27 +354,27 @@
           "forecast_date": "2026-06-07",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100558.2045,
+              "MV_A": 100632.5052,
+              "MV_B": 100747.5769,
+              "UV_A": 100483.8047,
+              "UV_B": 100368.9313,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 63.5992,
+              "MV_A": 64.9673,
+              "MV_B": 60.1047,
+              "UV_A": 65.9432,
+              "UV_B": 63.3815,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 31.216,
+              "MV_A": 30.9713,
+              "MV_B": 32.0822,
+              "UV_A": 31.0181,
+              "UV_B": 30.7923,
               "unit": "C"
             }
           }
@@ -384,27 +384,27 @@
           "forecast_date": "2026-06-08",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100565.9421,
+              "MV_A": 100602.9698,
+              "MV_B": 100749.4864,
+              "UV_A": 100483.6987,
+              "UV_B": 100427.6134,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 63.7292,
+              "MV_A": 64.7581,
+              "MV_B": 60.5654,
+              "UV_A": 65.8757,
+              "UV_B": 63.7175,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 31.1248,
+              "MV_A": 30.8104,
+              "MV_B": 31.9195,
+              "UV_A": 31.0329,
+              "UV_B": 30.7365,
               "unit": "C"
             }
           }
@@ -414,27 +414,27 @@
           "forecast_date": "2026-06-09",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100583.3123,
+              "MV_A": 100611.8356,
+              "MV_B": 100747.2639,
+              "UV_A": 100488.8522,
+              "UV_B": 100485.2977,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 63.8416,
+              "MV_A": 64.5017,
+              "MV_B": 61.1508,
+              "UV_A": 65.9245,
+              "UV_B": 63.7893,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.9953,
+              "MV_A": 30.7298,
+              "MV_B": 31.6514,
+              "UV_A": 31.0863,
+              "UV_B": 30.5138,
               "unit": "C"
             }
           }
@@ -444,27 +444,27 @@
           "forecast_date": "2026-06-10",
           "forecasts": {
             "PRmsl": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 100608.0452,
+              "MV_A": 100629.696,
+              "MV_B": 100742.4887,
+              "UV_A": 100499.4555,
+              "UV_B": 100560.5407,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 64.0175,
+              "MV_A": 64.3505,
+              "MV_B": 61.5824,
+              "UV_A": 65.9406,
+              "UV_B": 64.1965,
               "unit": "%"
             },
             "TMP2m": {
-              "ensemble": NaN,
-              "MV_A": null,
-              "MV_B": null,
-              "UV_A": null,
-              "UV_B": null,
+              "ensemble": 30.8413,
+              "MV_A": 30.6198,
+              "MV_B": 31.2941,
+              "UV_A": 31.1257,
+              "UV_B": 30.3254,
               "unit": "C"
             }
           }
