@@ -1,4 +1,4 @@
-city,forecast_date,nasa_latest_used,run_timestamp,target,unit,actual,ensemble,MV_A,MV_B,UV_A,UV_B,adjustment_applied,err_ensemble,abs_err_ensemble,err_MV_A,abs_err_MV_A,err_MV_B,abs_err_MV_B,err_UV_A,abs_err_UV_A,err_UV_B,abs_err_UV_B
+city,forecast_date,nasa_latest_used,run_timestamp,target,unit,actual,ensemble,MV_HLSTM_GRU,MV_GRU,UV_HLSTM_GRU,UV_GRU,adjustment_applied,err_ensemble,abs_err_ensemble,err_MV_HLSTM_GRU,abs_err_MV_HLSTM_GRU,err_MV_GRU,abs_err_MV_GRU,err_UV_HLSTM_GRU,abs_err_UV_HLSTM_GRU,err_UV_GRU,abs_err_UV_GRU
 Mumbai,2026-06-03,2026-06-02,2026-06-05T06:50:58.129872,PRmsl,Pa,100550.0,100459.5643,100564.5146,100696.2802,100572.3367,100005.1258,False,-90.4357,90.4357,14.5146,14.5146,146.2802,146.2802,22.3367,22.3367,-544.8742,544.8742
 Mumbai,2026-06-03,2026-06-02,2026-06-05T06:50:58.129872,RH2m,%,63.04,69.9409,62.0527,85.1161,65.019,67.5759,False,6.9009,6.9009,-0.9873,0.9873,22.0761,22.0761,1.979,1.979,4.5359,4.5359
 Mumbai,2026-06-03,2026-06-02,2026-06-05T06:50:58.129872,TMP2m,C,31.66,30.9283,30.7222,26.9019,32.3163,33.7726,False,-0.7317,0.7317,-0.9378,0.9378,-4.7581,4.7581,0.6563,0.6563,2.1126,2.1126
