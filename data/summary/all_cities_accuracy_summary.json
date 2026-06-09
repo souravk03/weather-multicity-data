@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T23:50:00.712879",
+  "generated_at": "2026-06-09T04:35:22.091021",
   "cities": {
     "Mumbai": {
-      "n_verified": 15,
+      "n_verified": 24,
       "targets": {
         "PRmsl": {
-          "n": 5,
+          "n": 8,
           "unit": "Pa",
           "models": {
             "ensemble": {
@@ -42,7 +42,7 @@
           "best_model": "ensemble"
         },
         "RH2m": {
-          "n": 5,
+          "n": 8,
           "unit": "%",
           "models": {
             "ensemble": {
@@ -79,7 +79,7 @@
           "best_model": "MV_A"
         },
         "TMP2m": {
-          "n": 5,
+          "n": 8,
           "unit": "C",
           "models": {
             "ensemble": {
@@ -118,10 +118,10 @@
       }
     },
     "Delhi": {
-      "n_verified": 15,
+      "n_verified": 24,
       "targets": {
         "PRmsl": {
-          "n": 5,
+          "n": 8,
           "unit": "Pa",
           "models": {
             "ensemble": {
@@ -158,7 +158,7 @@
           "best_model": "MV_A"
         },
         "RH2m": {
-          "n": 5,
+          "n": 8,
           "unit": "%",
           "models": {
             "ensemble": {
@@ -195,7 +195,7 @@
           "best_model": "MV_A"
         },
         "TMP2m": {
-          "n": 5,
+          "n": 8,
           "unit": "C",
           "models": {
             "ensemble": {
@@ -234,10 +234,10 @@
       }
     },
     "Chennai": {
-      "n_verified": 15,
+      "n_verified": 24,
       "targets": {
         "PRmsl": {
-          "n": 5,
+          "n": 8,
           "unit": "Pa",
           "models": {
             "ensemble": {
@@ -274,7 +274,7 @@
           "best_model": "ensemble"
         },
         "RH2m": {
-          "n": 5,
+          "n": 8,
           "unit": "%",
           "models": {
             "ensemble": {
@@ -311,7 +311,7 @@
           "best_model": "MV_A"
         },
         "TMP2m": {
-          "n": 5,
+          "n": 8,
           "unit": "C",
           "models": {
             "ensemble": {
