@@ -1,270 +1,270 @@
 {
-  "generated_at": "2026-06-10T23:45:28.061187",
+  "generated_at": "2026-06-11T09:35:47.581395",
   "cities": {
     "Mumbai": {
-      "n_verified": 36,
+      "n_verified": 39,
       "targets": {
         "PRmsl": {
-          "n": 12,
+          "n": 13,
           "unit": "Pa",
           "models": {
             "ensemble": {
-              "mae": 90.1141,
-              "rmse": 99.7205,
+              "mae": 82.472,
+              "rmse": 94.7022,
               "p90": 131.168,
-              "best_n": 4
+              "best_n": 5
             },
-            "MV_A": {
+            "MV_HLSTM_GRU": {
               "mae": 72.9229,
               "rmse": 88.4099,
               "p90": 130.2032,
               "best_n": 5
             },
-            "MV_B": {
+            "MV_GRU": {
               "mae": 180.0848,
               "rmse": 194.8315,
               "p90": 293.9404,
               "best_n": 0
             },
-            "UV_A": {
+            "UV_HLSTM_GRU": {
               "mae": 101.9133,
               "rmse": 117.5626,
               "p90": 178.7001,
               "best_n": 0
             },
-            "UV_B": {
+            "UV_GRU": {
               "mae": 449.5429,
               "rmse": 464.3532,
               "p90": 596.8806,
               "best_n": 0
             }
           },
-          "best_model": "MV_A"
+          "best_model": "MV_HLSTM_GRU"
         },
         "RH2m": {
-          "n": 12,
+          "n": 13,
           "unit": "%",
           "models": {
             "ensemble": {
-              "mae": 5.8674,
-              "rmse": 5.9661,
-              "p90": 7.0498,
-              "best_n": 2
+              "mae": 5.5709,
+              "rmse": 5.7339,
+              "p90": 6.9753,
+              "best_n": 3
             },
-            "MV_A": {
+            "MV_HLSTM_GRU": {
               "mae": 1.2288,
               "rmse": 1.2718,
               "p90": 1.4972,
               "best_n": 5
             },
-            "MV_B": {
+            "MV_GRU": {
               "mae": 20.7527,
               "rmse": 20.8124,
               "p90": 22.1704,
               "best_n": 0
             },
-            "UV_A": {
+            "UV_HLSTM_GRU": {
               "mae": 1.3431,
               "rmse": 1.5073,
               "p90": 2.1627,
               "best_n": 2
             },
-            "UV_B": {
+            "UV_GRU": {
               "mae": 3.5502,
               "rmse": 3.8593,
               "p90": 4.9891,
               "best_n": 0
             }
           },
-          "best_model": "MV_A"
+          "best_model": "MV_HLSTM_GRU"
         },
         "TMP2m": {
-          "n": 12,
+          "n": 13,
           "unit": "C",
           "models": {
             "ensemble": {
-              "mae": 1.1915,
-              "rmse": 1.2294,
-              "p90": 1.4999,
-              "best_n": 4
+              "mae": 1.133,
+              "rmse": 1.182,
+              "p90": 1.4886,
+              "best_n": 5
             },
-            "MV_A": {
+            "MV_HLSTM_GRU": {
               "mae": 1.3262,
               "rmse": 1.3667,
               "p90": 1.7144,
               "best_n": 0
             },
-            "MV_B": {
+            "MV_GRU": {
               "mae": 5.1124,
               "rmse": 5.1218,
               "p90": 5.4221,
               "best_n": 0
             },
-            "UV_A": {
+            "UV_HLSTM_GRU": {
               "mae": 0.9298,
               "rmse": 0.9704,
               "p90": 1.2021,
               "best_n": 5
             },
-            "UV_B": {
+            "UV_GRU": {
               "mae": 2.0471,
               "rmse": 2.0984,
               "p90": 2.7058,
               "best_n": 0
             }
           },
-          "best_model": "UV_A"
+          "best_model": "UV_HLSTM_GRU"
         }
       }
     },
     "Delhi": {
-      "n_verified": 36,
+      "n_verified": 39,
       "targets": {
         "PRmsl": {
-          "n": 12,
+          "n": 13,
           "unit": "Pa",
           "models": {
             "ensemble": {
-              "mae": 407.6929,
-              "rmse": 411.03,
-              "p90": 450.5299,
-              "best_n": 2
+              "mae": 426.8076,
+              "rmse": 433.4882,
+              "p90": 547.0221,
+              "best_n": 3
             },
-            "MV_A": {
+            "MV_HLSTM_GRU": {
               "mae": 290.4605,
               "rmse": 303.933,
               "p90": 382.3327,
               "best_n": 6
             },
-            "MV_B": {
+            "MV_GRU": {
               "mae": 566.7584,
               "rmse": 572.8866,
               "p90": 660.3686,
               "best_n": 0
             },
-            "UV_A": {
+            "UV_HLSTM_GRU": {
               "mae": 359.5244,
               "rmse": 369.1413,
               "p90": 450.465,
               "best_n": 1
             },
-            "UV_B": {
+            "UV_GRU": {
               "mae": 447.0888,
               "rmse": 452.1846,
               "p90": 510.7845,
               "best_n": 0
             }
           },
-          "best_model": "MV_A"
+          "best_model": "MV_HLSTM_GRU"
         },
         "RH2m": {
-          "n": 12,
+          "n": 13,
           "unit": "%",
           "models": {
             "ensemble": {
-              "mae": 35.9709,
-              "rmse": 36.0862,
-              "p90": 38.2249,
-              "best_n": 2
+              "mae": 36.6252,
+              "rmse": 36.7796,
+              "p90": 39.235,
+              "best_n": 3
             },
-            "MV_A": {
+            "MV_HLSTM_GRU": {
               "mae": 23.0333,
               "rmse": 23.2638,
               "p90": 25.3835,
               "best_n": 7
             },
-            "MV_B": {
+            "MV_GRU": {
               "mae": 49.9143,
               "rmse": 50.0118,
               "p90": 53.3261,
               "best_n": 0
             },
-            "UV_A": {
+            "UV_HLSTM_GRU": {
               "mae": 26.0696,
               "rmse": 26.2248,
               "p90": 28.4055,
               "best_n": 0
             },
-            "UV_B": {
+            "UV_GRU": {
               "mae": 42.4747,
               "rmse": 42.6263,
               "p90": 46.9527,
               "best_n": 0
             }
           },
-          "best_model": "MV_A"
+          "best_model": "MV_HLSTM_GRU"
         },
         "TMP2m": {
-          "n": 12,
+          "n": 13,
           "unit": "C",
           "models": {
             "ensemble": {
-              "mae": 4.8344,
-              "rmse": 4.9262,
-              "p90": 5.6058,
-              "best_n": 2
+              "mae": 4.9504,
+              "rmse": 5.0432,
+              "p90": 5.6447,
+              "best_n": 3
             },
-            "MV_A": {
+            "MV_HLSTM_GRU": {
               "mae": 4.0312,
               "rmse": 4.2296,
               "p90": 5.0894,
               "best_n": 0
             },
-            "MV_B": {
+            "MV_GRU": {
               "mae": 7.4168,
               "rmse": 7.4856,
               "p90": 8.6959,
               "best_n": 0
             },
-            "UV_A": {
+            "UV_HLSTM_GRU": {
               "mae": 2.4228,
               "rmse": 2.645,
               "p90": 3.3858,
               "best_n": 7
             },
-            "UV_B": {
+            "UV_GRU": {
               "mae": 4.5853,
               "rmse": 4.6528,
               "p90": 5.4931,
               "best_n": 0
             }
           },
-          "best_model": "UV_A"
+          "best_model": "UV_HLSTM_GRU"
         }
       }
     },
     "Chennai": {
-      "n_verified": 36,
+      "n_verified": 39,
       "targets": {
         "PRmsl": {
-          "n": 12,
+          "n": 13,
           "unit": "Pa",
           "models": {
             "ensemble": {
-              "mae": 70.0427,
-              "rmse": 73.0354,
-              "p90": 80.5407,
-              "best_n": 4
+              "mae": 64.5117,
+              "rmse": 69.4439,
+              "p90": 80.2829,
+              "best_n": 5
             },
-            "MV_A": {
+            "MV_HLSTM_GRU": {
               "mae": 91.4966,
               "rmse": 103.8575,
               "p90": 151.1695,
               "best_n": 4
             },
-            "MV_B": {
+            "MV_GRU": {
               "mae": 209.5588,
               "rmse": 236.0796,
               "p90": 357.4405,
               "best_n": 0
             },
-            "UV_A": {
+            "UV_HLSTM_GRU": {
               "mae": 114.5221,
               "rmse": 122.789,
               "p90": 160.8775,
               "best_n": 1
             },
-            "UV_B": {
+            "UV_GRU": {
               "mae": 340.4436,
               "rmse": 352.5182,
               "p90": 460.7473,
@@ -274,78 +274,78 @@
           "best_model": "ensemble"
         },
         "RH2m": {
-          "n": 12,
+          "n": 13,
           "unit": "%",
           "models": {
             "ensemble": {
-              "mae": 2.799,
-              "rmse": 2.8776,
+              "mae": 2.6187,
+              "rmse": 2.748,
               "p90": 3.2831,
-              "best_n": 2
+              "best_n": 3
             },
-            "MV_A": {
+            "MV_HLSTM_GRU": {
               "mae": 1.466,
               "rmse": 1.6149,
               "p90": 2.3793,
               "best_n": 2
             },
-            "MV_B": {
+            "MV_GRU": {
               "mae": 3.5489,
               "rmse": 4.2869,
               "p90": 6.9045,
               "best_n": 2
             },
-            "UV_A": {
+            "UV_HLSTM_GRU": {
               "mae": 1.9747,
               "rmse": 2.3484,
               "p90": 3.2957,
               "best_n": 3
             },
-            "UV_B": {
+            "UV_GRU": {
               "mae": 3.6532,
               "rmse": 3.8927,
               "p90": 5.1803,
               "best_n": 0
             }
           },
-          "best_model": "MV_A"
+          "best_model": "MV_HLSTM_GRU"
         },
         "TMP2m": {
-          "n": 12,
+          "n": 13,
           "unit": "C",
           "models": {
             "ensemble": {
-              "mae": 0.5008,
-              "rmse": 0.5656,
-              "p90": 0.7968,
-              "best_n": 2
+              "mae": 0.4595,
+              "rmse": 0.5373,
+              "p90": 0.794,
+              "best_n": 3
             },
-            "MV_A": {
+            "MV_HLSTM_GRU": {
               "mae": 0.5747,
               "rmse": 0.6275,
               "p90": 0.8664,
               "best_n": 0
             },
-            "MV_B": {
+            "MV_GRU": {
               "mae": 0.4504,
               "rmse": 0.5902,
               "p90": 1.0108,
               "best_n": 2
             },
-            "UV_A": {
+            "UV_HLSTM_GRU": {
               "mae": 0.3118,
               "rmse": 0.3964,
               "p90": 0.6217,
               "best_n": 5
             },
-            "UV_B": {
+            "UV_GRU": {
               "mae": 1.2709,
               "rmse": 1.3805,
               "p90": 1.7303,
               "best_n": 0
             }
           },
-          "best_model": "UV_A"
+          "best_model": "UV_HLSTM_GRU"
         }
       }
     }
