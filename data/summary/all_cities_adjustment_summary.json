@@ -1,20 +1,23 @@
 {
-  "generated_at": "2026-06-15T06:07:33.621200",
+  "generated_at": "2026-06-15T07:10:33.865274",
   "cities": {
     "Mumbai": {
+      "date": "2026-06-14",
+      "city": "Mumbai",
       "adjusted": false,
-      "targets": [],
-      "date": "2026-06-14"
+      "groups": {}
     },
     "Delhi": {
+      "date": "2026-06-14",
+      "city": "Delhi",
       "adjusted": false,
-      "targets": [],
-      "date": "2026-06-14"
+      "groups": {}
     },
     "Chennai": {
+      "date": "2026-06-14",
+      "city": "Chennai",
       "adjusted": false,
-      "targets": [],
-      "date": "2026-06-14"
+      "groups": {}
     }
   }
 }
