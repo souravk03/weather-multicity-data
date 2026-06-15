@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-15T05:59:06.818686",
+  "generated_at": "2026-06-15T06:07:06.266077",
   "cities": {
     "Mumbai": {
-      "n_verified": 0
+      "verified_rows": 0
     },
     "Delhi": {
-      "n_verified": 0
+      "verified_rows": 0
     },
     "Chennai": {
-      "n_verified": 0
+      "verified_rows": 0
     }
   }
 }
