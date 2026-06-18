@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-06-18T07:14:02.345311",
+  "cities": {
+    "Mumbai": {
+      "n_verified": 0
+    },
+    "Delhi": {
+      "n_verified": 0
+    },
+    "Chennai": {
+      "n_verified": 0
+    }
+  }
+}
