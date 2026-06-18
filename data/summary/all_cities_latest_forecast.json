@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-06-18T07:14:02.341784",
+  "nasa_latest": "2026-06-15",
+  "forecast_date": "2026-06-18",
+  "cities": {
+    "Mumbai": {
+      "lat": 19.11,
+      "lon": 72.85,
+      "forecasts": {
+        "PRmsl": {
+          "ensemble": 100650.6945,
+          "MV_HLSTM_GRU": 100702.1603,
+          "MV_GRU": 100670.3067,
+          "UV_HLSTM_GRU": 100650.0422,
+          "UV_GRU": 100580.2688,
+          "unit": "Pa"
+        },
+        "RH2m": {
+          "ensemble": 71.5743,
+          "MV_HLSTM_GRU": 63.5883,
+          "MV_GRU": 83.5892,
+          "UV_HLSTM_GRU": 65.6687,
+          "UV_GRU": 73.451,
+          "unit": "%"
+        },
+        "TMP2m": {
+          "ensemble": 30.3801,
+          "MV_HLSTM_GRU": 30.3006,
+          "MV_GRU": 27.7464,
+          "UV_HLSTM_GRU": 31.0777,
+          "UV_GRU": 32.3955,
+          "unit": "C"
+        }
+      }
+    },
+    "Delhi": {
+      "lat": 28.61,
+      "lon": 77.2,
+      "forecasts": {
+        "PRmsl": {
+          "ensemble": 100427.6047,
+          "MV_HLSTM_GRU": 100422.7884,
+          "MV_GRU": 100448.7336,
+          "UV_HLSTM_GRU": 100392.3367,
+          "UV_GRU": 100446.56,
+          "unit": "Pa"
+        },
+        "RH2m": {
+          "ensemble": 69.12,
+          "MV_HLSTM_GRU": 54.6534,
+          "MV_GRU": 81.9018,
+          "UV_HLSTM_GRU": 57.7994,
+          "UV_GRU": 82.1256,
+          "unit": "%"
+        },
+        "TMP2m": {
+          "ensemble": 31.7115,
+          "MV_HLSTM_GRU": 33.0662,
+          "MV_GRU": 29.4083,
+          "UV_HLSTM_GRU": 33.1114,
+          "UV_GRU": 31.2601,
+          "unit": "C"
+        }
+      }
+    },
+    "Chennai": {
+      "lat": 13.08,
+      "lon": 80.27,
+      "forecasts": {
+        "PRmsl": {
+          "ensemble": 100513.0483,
+          "MV_HLSTM_GRU": 100551.7999,
+          "MV_GRU": 100411.7714,
+          "UV_HLSTM_GRU": 100526.7638,
+          "UV_GRU": 100561.8579,
+          "unit": "Pa"
+        },
+        "RH2m": {
+          "ensemble": 70.8285,
+          "MV_HLSTM_GRU": 72.3208,
+          "MV_GRU": 68.333,
+          "UV_HLSTM_GRU": 72.5165,
+          "UV_GRU": 70.1438,
+          "unit": "%"
+        },
+        "TMP2m": {
+          "ensemble": 30.1479,
+          "MV_HLSTM_GRU": 30.0732,
+          "MV_GRU": 29.9338,
+          "UV_HLSTM_GRU": 30.7393,
+          "UV_GRU": 29.8454,
+          "unit": "C"
+        }
+      }
+    }
+  }
+}
